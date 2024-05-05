@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  interior_size: 1
+  exterior_size: 1
+  exterior_type: MyString
+  facing_direction: MyString
+  floor_type: MyString
+
+two:
+  name: MyString
+  interior_size: 1
+  exterior_size: 1
+  exterior_type: MyString
+  facing_direction: MyString
+  floor_type: MyString
